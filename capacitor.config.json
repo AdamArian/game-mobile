@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "ioniser",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "mobile.game",
+  "appName": "mobile.game",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
